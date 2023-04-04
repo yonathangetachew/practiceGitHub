@@ -1,0 +1,7 @@
+	The terminal is a command-line interface that allows users to interact with their operating system by typing commands instead of using a graphical user interface (GUI). In simple terms, the terminal acts as a gateway to your computer's file system and enables you to execute commands or run programs. Using the terminal can be more efficient than navigating through a GUI because it allows you to quickly execute a series of commands, automate tasks, and perform operations that are not easily achieved through a GUI.
+
+
+	Git is a version control system that allows developers to track changes made to their code over time, enabling them to collaborate with others and keep track of multiple versions of their code. On the other hand, GitHub is a web-based platform that provides a hosting service for Git repositories. While Git is a tool used for version control, GitHub is a platform that provides additional features such as collaboration, issue tracking, and continuous integration.
+
+
+	We use GitHub to host and share Git repositories, collaborate with other developers on projects, and contribute to open source software. GitHub provides a centralized location for developers to store their code, track changes, and collaborate with others, making it easier to manage and contribute to software projects. Additionally, GitHub provides a community for developers to connect with others, showcase their work, and learn from others.
